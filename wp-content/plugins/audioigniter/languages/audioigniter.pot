@@ -1,0 +1,313 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: AudioIgniter\n"
+"POT-Creation-Date: 2017-07-19 19:25+0300\n"
+"PO-Revision-Date: 2016-08-29 19:22+0300\n"
+"Last-Translator: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"Language-Team: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: audioigniter.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: audioigniter.php:203
+msgid ""
+"Do you really want to remove all tracks? (This will not delete your audio "
+"files)."
+msgstr ""
+
+#: audioigniter.php:204
+msgid "Select or upload audio media"
+msgstr ""
+
+#: audioigniter.php:205
+msgid "Select a cover image"
+msgstr ""
+
+#: audioigniter.php:242
+msgctxt "post type general name"
+msgid "Playlists"
+msgstr ""
+
+#: audioigniter.php:243 audioigniter.php:258
+msgctxt "post type singular name"
+msgid "Playlist"
+msgstr ""
+
+#: audioigniter.php:244
+msgctxt "admin menu"
+msgid "Playlists"
+msgstr ""
+
+#: audioigniter.php:245
+msgctxt "add new on admin bar"
+msgid "Playlist"
+msgstr ""
+
+#: audioigniter.php:246 audioigniter.php:247
+msgid "Add New Playlist"
+msgstr ""
+
+#: audioigniter.php:248
+msgid "Edit Playlist"
+msgstr ""
+
+#: audioigniter.php:249
+msgid "New Playlist"
+msgstr ""
+
+#: audioigniter.php:250
+msgid "View Playlist"
+msgstr ""
+
+#: audioigniter.php:251
+msgid "Search Playlists"
+msgstr ""
+
+#: audioigniter.php:252
+msgid "No playlists found"
+msgstr ""
+
+#: audioigniter.php:253
+msgid "No playlists found in the trash"
+msgstr ""
+
+#: audioigniter.php:278
+msgid "Tracks"
+msgstr ""
+
+#: audioigniter.php:279
+msgid "Settings"
+msgstr ""
+
+#: audioigniter.php:280
+msgid "Shortcode"
+msgstr ""
+
+#: audioigniter.php:339
+msgid "AudioIgniter Logo"
+msgstr ""
+
+#: audioigniter.php:348
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: audioigniter.php:372
+msgid "Support"
+msgstr ""
+
+#: audioigniter.php:376
+msgid "Documentation"
+msgstr ""
+
+#: audioigniter.php:380
+msgid "Rate this plugin"
+msgstr ""
+
+#. translators: %s is a URL.
+#: audioigniter.php:403
+#, php-format
+msgid ""
+"Thank you for creating with <a href=\"%s\" target=\"_blank\">AudioIgniter</a>"
+msgstr ""
+
+#: audioigniter.php:448
+msgid "Toggle track visibility"
+msgstr ""
+
+#: audioigniter.php:459
+msgid "Remove Cover Image"
+msgstr ""
+
+#: audioigniter.php:472
+msgid "Upload Cover"
+msgstr ""
+
+#: audioigniter.php:490 audioigniter.php:497
+msgid "Title"
+msgstr ""
+
+#: audioigniter.php:505 audioigniter.php:512
+msgid "Artist"
+msgstr ""
+
+#: audioigniter.php:521 audioigniter.php:528
+msgid "Buy link"
+msgstr ""
+
+#: audioigniter.php:539 audioigniter.php:548
+msgid "Audio file or radio stream"
+msgstr ""
+
+#: audioigniter.php:552
+msgid "Upload"
+msgstr ""
+
+#: audioigniter.php:563 audioigniter.php:570
+msgid "Download URL"
+msgstr ""
+
+#: audioigniter.php:577
+msgid "Remove Track"
+msgstr ""
+
+#: audioigniter.php:592
+msgid "Add Track"
+msgstr ""
+
+#: audioigniter.php:599
+msgid "Clear Playlist"
+msgstr ""
+
+#: audioigniter.php:605
+msgid "Expand All"
+msgstr ""
+
+#: audioigniter.php:608
+msgid "Collapse All"
+msgstr ""
+
+#: audioigniter.php:647
+msgid "Player Type"
+msgstr ""
+
+#: audioigniter.php:678
+msgid "Show track listing"
+msgstr ""
+
+#: audioigniter.php:692
+msgid "Show track numbers in tracklist"
+msgstr ""
+
+#: audioigniter.php:706
+msgid "Reverse track order"
+msgstr ""
+
+#: audioigniter.php:720
+msgid "Show track covers in tracklist"
+msgstr ""
+
+#: audioigniter.php:734
+msgid "Show active track's cover"
+msgstr ""
+
+#: audioigniter.php:748
+msgid "Show artist names"
+msgstr ""
+
+#: audioigniter.php:762
+msgid "Show track extra buttons (buy link, download button etc)"
+msgstr ""
+
+#: audioigniter.php:776
+msgid "Open buy links in new window"
+msgstr ""
+
+#: audioigniter.php:790
+msgid "Repeat tracklist enabled by default"
+msgstr ""
+
+#: audioigniter.php:794
+msgid ""
+"Note that users still have the option to turn it on or off in some player "
+"types, regardless of this option."
+msgstr ""
+
+#: audioigniter.php:808
+msgid "Show \"Powered by AudioIgniter\" link"
+msgstr ""
+
+#: audioigniter.php:812
+msgid ""
+"We've put a great deal of effort into building this plugin. If you feel like "
+"it, let others know about it by enabling this option."
+msgstr ""
+
+#: audioigniter.php:818
+msgid "Starting volume"
+msgstr ""
+
+#: audioigniter.php:829
+msgid "0-100"
+msgstr ""
+
+#: audioigniter.php:834
+msgid "Enter a value between 0 and 100 in increments of 10"
+msgstr ""
+
+#: audioigniter.php:848
+msgid "Limit track listing height"
+msgstr ""
+
+#: audioigniter.php:854 audioigniter.php:864
+msgid "Track listing height"
+msgstr ""
+
+#: audioigniter.php:869
+msgid "Set a number of pixels"
+msgstr ""
+
+#: audioigniter.php:875
+msgid "Maximum player width"
+msgstr ""
+
+#: audioigniter.php:883
+msgid "Automatic width"
+msgstr ""
+
+#: audioigniter.php:888
+#, php-format
+msgid ""
+"Set a number of pixels, or leave empty to automatically cover 100% of the "
+"available area (recommended)."
+msgstr ""
+
+#: audioigniter.php:908
+msgid "Grab the shortcode"
+msgstr ""
+
+#: audioigniter.php:942
+msgid "Full Player"
+msgstr ""
+
+#: audioigniter.php:947
+msgid "Simple Player"
+msgstr ""
+
+#: audioigniter.php:1154
+msgid "ID doesn't match a playlist"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "AudioIgniter"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.cssigniter.com/ignite/plugins/audioigniter/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"AudioIgniter lets you create music playlists and embed them in your "
+"WordPress posts, pages or custom post types and serve your audio content in "
+"style!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "The CSSIgniter Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.cssigniter.com"
+msgstr ""

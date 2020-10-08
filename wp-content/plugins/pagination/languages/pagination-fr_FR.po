@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pagination\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-15 14:05+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: BestWebSoft team <wp@bestwebsoft.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pagination.php:40
+msgid "Pagination Settings"
+msgstr "Préférences pour Pagination"
+
+#: pagination.php:114
+msgid "« Previous"
+msgstr "« Précédent"
+
+#: pagination.php:115
+msgid "Next »"
+msgstr "Suivant »"
+
+#: pagination.php:237
+msgid "Settings saved."
+msgstr "Préférences sauvegardées"
+
+#: pagination.php:247
+msgid "All plugin settings were restored."
+msgstr "Remise à zéro des préférences."
+
+#: pagination.php:260 pagination.php:921 pagination.php:940
+msgid "Settings"
+msgstr "Préférences"
+
+#: pagination.php:261
+msgid "Appearance"
+msgstr "Aspect"
+
+#: pagination.php:262
+msgid "Custom code"
+msgstr "Code personnalisé"
+
+#: pagination.php:263
+msgid "Go PRO"
+msgstr "Go PRO"
+
+#: pagination.php:271
+msgid "Notice:"
+msgstr "Remarque:"
+
+#: pagination.php:271
+msgid ""
+"Choose some page types to display plugin`s pagination in frontend of your "
+"site."
+msgstr ""
+"Choisissez un type de page pour afficher surl a page d'accueil de votre site."
+
+#: pagination.php:278
+msgid ""
+"If you would like to display pagination block in a different place on your "
+"site, add the following strings into the file"
+msgstr ""
+"Si vous voulez mettre le bloc de pagination ailleurs sur votre site, ajoutez "
+"la chaîne suivante dans le fichier "
+
+#: pagination.php:278
+msgid "of your theme"
+msgstr "de votre thème"
+
+#: pagination.php:280
+msgid ""
+"If you would like to display pagination block for paginated posts or pages "
+"in a different place on your site, add the following strings into to the "
+"appropriate templates source code of your theme"
+msgstr ""
+"Si vous voulez mettre le bloc de pagination de pages ou des post ailleurs "
+"sur votre site, ajoutez la chaîne suivante dans le code source du modèle de "
+"votre thème"
+
+#: pagination.php:282
+msgid ""
+"Paste this into the comments template if you want to display pagination for "
+"comments"
+msgstr ""
+"Collez ceci dans la case commentaire, si vous voulez paginer le commentaire"
+
+#: pagination.php:288
+msgid "Display pagination on"
+msgstr "Afficher la pagination sur "
+
+#: pagination.php:291
+msgid "all pages"
+msgstr "toutes les pages."
+
+#: pagination.php:292
+msgid "home page"
+msgstr "la page d'accueil"
+
+#: pagination.php:293
+msgid "blog page"
+msgstr "la page de blog"
+
+#: pagination.php:294
+msgid "archive pages ( by categories, date, tags etc. )"
+msgstr "les pages d'archives (par catégories, dates, mot-clés etc.)"
+
+#: pagination.php:295
+msgid "search results page"
+msgstr "la page des résultats de la recherche"
+
+#: pagination.php:296
+msgid "paginated posts/pages"
+msgstr "les pages et les posts paginés"
+
+#: pagination.php:304
+msgid "Close"
+msgstr "Fermer"
+
+#: pagination.php:308
+msgid "Pagination type"
+msgstr "Type de pagination"
+
+#: pagination.php:312
+msgid "Numeric pagination"
+msgstr "Pagination numérotée"
+
+#: pagination.php:315
+msgid "\"Load More\" button"
+msgstr "Bouton \"Charger d'avantage\""
+
+#: pagination.php:316
+msgid ""
+"display a single button at the bottom of the posts/pages that when clicked "
+"loads new posts/pages via ajax"
+msgstr ""
+"mettre un bouton simple en bas des pages.posts qui affiche de nouvelle pages "
+"si on le clique."
+
+#: pagination.php:319
+msgid "Infinite scroll"
+msgstr "Défilement infini"
+
+#: pagination.php:320
+msgid ""
+"automatically loads new posts/pages as the user scrolls to the bottom of the "
+"screen"
+msgstr ""
+"charger automatiquement de nouvelle page si l'utilisateur défile en bas de "
+"l'écran"
+
+#: pagination.php:328
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: pagination.php:335
+msgid "Pagination position"
+msgstr "Position de la pagination"
+
+#: pagination.php:338
+msgid "above the main content"
+msgstr "au dessus du contenu principal"
+
+#: pagination.php:339
+msgid "below the main content"
+msgstr "en dessous du contenu principal"
+
+#: pagination.php:340
+msgid "above and below the main content"
+msgstr "au dessus et en dessous du contenu principal. "
+
+#: pagination.php:341
+msgid "via function only"
+msgstr "uniquement par une fonction"
+
+#: pagination.php:346
+msgid "Display 'Page __ of __' block"
+msgstr "Afficher le bloc \"Page __sur__ \""
+
+#: pagination.php:352
+msgid "Display Next/Previous arrows"
+msgstr "Afficher les flèches Précédent/Suivant"
+
+#: pagination.php:356
+msgid "text for previous page link"
+msgstr "Texte pour le lien 'page précédente'"
+
+#: pagination.php:357
+msgid "text for next page link"
+msgstr "texte pour le lien 'page suivante'"
+
+#: pagination.php:362
+msgid "Type of output"
+msgstr "Type de sortie"
+
+#: pagination.php:365
+msgid "all numbers of pages"
+msgstr "tous les numéros des pages"
+
+#: pagination.php:366
+msgid "shorthand output"
+msgstr "abréviation pour la sortie"
+
+#: pagination.php:367
+msgid "numbers to either side of current page, but not including current page."
+msgstr ""
+"numéros des pages précédentes et suivantes mais pas de la page courante. "
+
+#: pagination.php:372
+msgid "Hide standard pagination"
+msgstr "Cacher la pagination standard"
+
+#: pagination.php:375
+msgid "posts pagination"
+msgstr "pagination des posts"
+
+#: pagination.php:376
+msgid "on paginated posts or pages"
+msgstr "sur les pages et les posts paginés."
+
+#: pagination.php:377
+msgid "comments pagination"
+msgstr "pagination des commentaires"
+
+#: pagination.php:380
+msgid ""
+"Used for standard WordPress themes or themes, which use standard CSS-classes "
+"to display pagination blocks"
+msgstr "Utilisé pour les thèmes WordPress, comprenant des classes CSS"
+
+#: pagination.php:385
+msgid "Hide custom pagination"
+msgstr "Cacher la pagination personnalisée"
+
+#: pagination.php:392
+msgid ""
+"Enter one (or more comma-separated) CSS-classes or ID of blocks which you "
+"would like to hide."
+msgstr ""
+"Entrer une ou plusieurs classes CSS (séparées par des virgules) que vous "
+"souhaitez cacher."
+
+#: pagination.php:393
+msgid "Example"
+msgstr "Exemple "
+
+#: pagination.php:395 pagination.php:397
+msgid "or"
+msgstr "ou"
+
+#: pagination.php:406
+msgid "Add styles"
+msgstr "Ajouter des styles"
+
+#: pagination.php:412
+msgid "Page pagination block width"
+msgstr "Largeur des blocs de pagination"
+
+#: pagination.php:418
+msgid "Pagination align"
+msgstr "Alignement de la pagination"
+
+#: pagination.php:420
+msgid "Left"
+msgstr "Gauche"
+
+#: pagination.php:421
+msgid "Center"
+msgstr "Centré"
+
+#: pagination.php:422
+msgid "Right"
+msgstr "Droit"
+
+#: pagination.php:426
+msgid "Left padding"
+msgstr "Marge gauche"
+
+#: pagination.php:432
+msgid "Right padding"
+msgstr "Marge droite"
+
+#: pagination.php:438
+msgid "Background color"
+msgstr "Couleur d'arrière-plan"
+
+#: pagination.php:444
+msgid "Background color for current page"
+msgstr "Couleur d'arrière-plan pour la page courante"
+
+#: pagination.php:450
+msgid "Text color for page"
+msgstr "Couleur du texte pour la page"
+
+#: pagination.php:456
+msgid "Text color for current page"
+msgstr "Couleur du texte pour la page courante"
+
+#: pagination.php:462
+msgid "Border color"
+msgstr "Couleur de la bordure"
+
+#: pagination.php:468
+msgid "Border width"
+msgstr "Largeur de la bordure"
+
+#: pagination.php:474
+msgid "Border radius"
+msgstr "Rayon de la bordure"
+
+#: pagination.php:482
+msgid "Save Changes"
+msgstr "Sauvegarder les changements"
+
+#: pagination.php:751 pagination.php:771
+msgid "Page"
+msgstr "Page"
+
+#: pagination.php:751 pagination.php:771 pagination.php:795 pagination.php:874
+msgid "of"
+msgstr "sur"
+
+#: pagination.php:795
+msgid "Pages"
+msgstr "Pages"
+
+#: pagination.php:874
+msgid "Comments Page"
+msgstr "Page de commentaire"
+
+#: pagination.php:941
+msgid "FAQ"
+msgstr "FAQ"
+
+#: pagination.php:942
+msgid "Support"
+msgstr "Support"
+
+#~ msgid "If you upgrade to Pro version all your settings will be saved."
+#~ msgstr ""
+#~ "si vous upgrader pour la version pro, vos préférences seront conservées."
+
+#~ msgid ""
+#~ "Used for standard WordPress themes or themes, which use standard CSS-"
+#~ "classes for displaying pagination blocks"
+#~ msgstr "Utilisé pour les thèmes WordPress, comprenant des classes CSS"
+
+#~ msgid "Unlock premium options by upgrading to Pro version"
+#~ msgstr "Déverrouiller les option premium en upgradant vers la version pro."
+
+#~ msgid "everywhere"
+#~ msgstr "Partout"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them, please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Les préférences du plugin ont été modifiées. Pour les sauvegarder, "
+#~ "n'oubliez pas de cliquer sur le bouton 'Sauvegarder les changements\""
